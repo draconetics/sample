@@ -1,2 +1,3 @@
 Brian Dennis Vega Hidalgo Llevaran los framework para react nextjs o Gatsby??
 this is the newbranch
+helping with other
